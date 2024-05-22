@@ -1,6 +1,13 @@
 ## Hi there, you can call me Khoa 👋
 <p>I'm a PhD. in Natural Language Processing. Care to take a look at my <a href="https://hal.science/tel-04129421v2">thesis</a>? </p>
 
+#### 💫About Me :
+
+- I get excited about tech, whether it's hardware or software
+
+- As an NLP researcher nowadays, learning more about the current advancement and application of this field is my goal (especially with LLMs)
+
+- Fun fact: I'm a coffee nerd and a baseball player
 
 #### 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
