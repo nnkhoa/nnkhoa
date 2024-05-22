@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, you can call me Khoa 👋
+<p>I'm a PhD. in Natural Language Processing. Care to take a look at my <a href="https://hal.science/tel-04129421v2">thesis</a>? </p>
 <!--
 **nnkhoa/nnkhoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
